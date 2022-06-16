@@ -1,6 +1,13 @@
 
 # file:///C:/Users/dania/Code/datatable/datatable_demo/rider_html_free_v1.0.1/theme/dist/documentation/getting-started/build/gulp.html
 
+```
+..\theme\tools\gulp 
+..\theme\tools\gulp localhost
+
+
+
+```
 
 ```
     <link href="assets/plugins/custom/datatables/datatables.bundle.css" rel="stylesheet" type="text/css"/>
